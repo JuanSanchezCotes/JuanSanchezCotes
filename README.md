@@ -29,7 +29,7 @@ Herramientas para documentación de procesos y comunicación efectiva:<p>
   </ul>
 </div>
 
-¡Contactame! 📬<p>
+## ¡Contactame! 📬<p>
 Estoy disponible en LinkedIn para colaborar en proyectos con un impacto real. ¡Conéctate conmigo y hagámoslo posible! 🤝<p>
 
 [Linkedin] [https://www.linkedin.com/in/juan-sanchez-cotes/]<p>
