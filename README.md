@@ -13,13 +13,21 @@ Aspiro a obtener reconocimiento a nivel mundial por mis contribuciones en divers
 Gracias al Bootcamp de Henry y otros cursos complementarios, he adquirido el conocimiento y la experiencia necesarios para despegar 🚀. Algunas de las principales tecnologías que manejo son:
 
 Herramientas en Análisis de datos:
-Python 🐍 | Pandas 🐼 | NumPy 🧮 | Streamlit 📈 | FastAPI ⚡<p>
-SQL 💼 | MySQL 🗄️<p>
-Power BI 📊<p>
-Excel Intermedio-Avanzado 📊<p>
+<div>
+  <ul>
+    <li>Python 🐍 | Pandas 🐼 | NumPy 🧮 | Streamlit 📈 | FastAPI ⚡</li><p>
+    <li>SQL 💼 | MySQL 🗄️</li><p>
+    <li>Power BI 📊</li><p>
+    <li>Excel Intermedio-Avanzado 📊</li><p>
+  </ul>
+</div>
 Herramientas para documentación de procesos y comunicación efectiva:<p>
-Google Slides 📰 | Canva 🎨 | Word 📝 | Microsoft Visio 🗺️<p>
-PowerPoint 📝| Prezi 🌀<p>
+<div>
+  <ul>
+   <li>Google Slides 📰 | Canva 🎨 | Word 📝 | Microsoft Visio 🗺️<p></li>
+   <li>PowerPoint 📝| Prezi 🌀</li><p>
+  </ul>
+</div>
 
 ¡Contactame! 📬<p>
 Estoy disponible en LinkedIn para colaborar en proyectos con un impacto real. ¡Conéctate conmigo y hagámoslo posible! 🤝<p>
