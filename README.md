@@ -1,4 +1,4 @@
-### Hello there, I'm Juan Sanchez 👋
+# Hello there, I'm Juan Sanchez 👋
 
 ## ¿Quién soy? 🕵️‍♀️
 Soy Colombiano, esposo de Gicelle, padre de Gabriela, Ingeniero Industrial, estudiante de Maestría y Data Scientist con experiencia en el rol de Data Analyst & Storytelling 📊. Mi formación en Ingeniería Industrial y los más de 8 años de experiencia a lo largo de mi carrera. Mi pasión por el análisis descriptivo y predictivo de datos me ha llevado a adquirir habilidades en diversas herramientas y lenguajes.
@@ -13,17 +13,17 @@ Aspiro a obtener reconocimiento a nivel mundial por mis contribuciones en divers
 Gracias al Bootcamp de Henry y otros cursos complementarios, he adquirido el conocimiento y la experiencia necesarios para despegar 🚀. Algunas de las principales tecnologías que manejo son:
 
 Herramientas en Análisis de datos:
-Python 🐍 | Pandas 🐼 | NumPy 🧮 | Streamlit 📈 | FastAPI ⚡
-SQL 💼 | MySQL 🗄️
-Power BI 📊
-Excel Intermedio-Avanzado 📊
-Herramientas para documentación de procesos y comunicación efectiva:
-Google Slides 📰 | Canva 🎨 | Word 📝 | Microsoft Visio 🗺️
-PowerPoint 📝| Prezi 🌀
+Python 🐍 | Pandas 🐼 | NumPy 🧮 | Streamlit 📈 | FastAPI ⚡<p>
+SQL 💼 | MySQL 🗄️<p>
+Power BI 📊<p>
+Excel Intermedio-Avanzado 📊<p>
+Herramientas para documentación de procesos y comunicación efectiva:<p>
+Google Slides 📰 | Canva 🎨 | Word 📝 | Microsoft Visio 🗺️<p>
+PowerPoint 📝| Prezi 🌀<p>
 
-¡Contactame! 📬
-Estoy disponible en LinkedIn para colaborar en proyectos con un impacto real. ¡Conéctate conmigo y hagámoslo posible! 🤝
+¡Contactame! 📬<p>
+Estoy disponible en LinkedIn para colaborar en proyectos con un impacto real. ¡Conéctate conmigo y hagámoslo posible! 🤝<p>
 
-[Linkedin] [https://www.linkedin.com/in/juan-sanchez-cotes/]
+[Linkedin] [https://www.linkedin.com/in/juan-sanchez-cotes/]<p>
 [Correo] <a href=»juancsanchez1992@gmail.com?
 Subject=Quiero%20contactar%20contigo»>Hola Juan, Estuve revisando tu linkedin y/o tu github, y me gustaria concordar en una reunión para mas información</a> 📧
