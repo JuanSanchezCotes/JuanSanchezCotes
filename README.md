@@ -1,8 +1,5 @@
 ### Hello there, I'm Juan Sanchez 👋
 
-<!--
-**JuanSanchezCotes/JuanSanchezCotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ¿Quién soy? 🕵️‍♀️
 Soy Colombiano, esposo de Gicelle, padre de Gabriela, Ingeniero Industrial, estudiante de Maestría y Data Scientist con experiencia en el rol de Data Analyst & Storytelling 📊. Mi formación en Ingeniería Industrial y los más de 8 años de experiencia a lo largo de mi carrera. Mi pasión por el análisis descriptivo y predictivo de datos me ha llevado a adquirir habilidades en diversas herramientas y lenguajes.
 
