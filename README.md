@@ -33,6 +33,6 @@ Herramientas para documentación de procesos y comunicación efectiva:<p>
 Estoy disponible en LinkedIn para colaborar en proyectos con un impacto real. ¡Conéctate conmigo y hagámoslo posible! 🤝<p>
 
 <A HREF="[otra_pagina.html](https://www.linkedin.com/in/juan-sanchez-cotes/)"> Este es un link </A>
-[Linkedin] []<p>
+[![Linkedin](https://www.linkedin.com/in/juan-sanchez-cotes/)[Linkedin] []<p>
 [Correo] <a href=»juancsanchez1992@gmail.com?
 Subject=Quiero%20contactar%20contigo»>Hola Juan, Estuve revisando tu linkedin y/o tu github, y me gustaria concordar en una reunión para mas información</a> 📧
